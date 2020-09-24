@@ -4,10 +4,10 @@ Interesting malware samples from popular online sandbox services such as [Any.Ru
 
 ## TinyCryptor
 
-MD5: 306978669EAD832F1355468574DF1680
-Filename: Рекомендации_МИР.docx.lnk
-Reference: [Any.Run](https://app.any.run/tasks/f63e2c95-c558-4d94-b62e-b93a18eca0aa/)
-Threat Actor: [OldGremlin](https://www.group-ib.com/blog/oldgremlin)
+* MD5: 306978669EAD832F1355468574DF1680
+* Filename: Рекомендации_МИР.docx.lnk
+* Reference: [Any.Run](https://app.any.run/tasks/f63e2c95-c558-4d94-b62e-b93a18eca0aa/)
+* Threat Actor: [OldGremlin](https://www.group-ib.com/blog/oldgremlin)
 
 > "OldGremlin is the only Russian-speaking ransomware operator that violates the unspoken rule about not working within Russia and post-Soviet countries. They carry out multistage targeted attacks on Russian companies and banks using sophisticated tactics and techniques similar to those employed by APT groups. As with similar groups that target foreign entities, OldGremlin can be classed as part of Big Game Hunting, which brings together ransomware operators targeting large corporate networks." - Oleg Skulkin, Senior Digital Forensics Analyst at Group-IB
 
